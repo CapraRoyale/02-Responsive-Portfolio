@@ -1,23 +1,13 @@
 # CapraRoyale is Siege Lehman
 
-*Polymath, problem solver, informal logician, humanist, nerd*
+## Polymath, problem solver, informal logician, humanist, & nerd
 
-## Data Analyst 📊
-* Python 🐍
-* Pandas 🐼
-* Plotly 📈
-* Jupyter Notebooks 📓
-* Anaconda 🐉
+<hr>
 
-## Full-Stack Web Developer 🧑🏻‍💻
-* Javascript *(ES5, jQuery, Node.js)* ☕
-* MySQL 🗃️
-* MongoDB 💽
-* HTML 🌐
-* CSS *(Vanilla, Bootstrap)* 👢
-
-## Photographer 📷
-* Portraiture 🧔🏻
-* Animals 🐦🐕🐛🐈
-* Landscape 🌄
-* Macro 🔍
+[Data Analyst 📊 | Full-Stack Web Developer 🧑🏻‍💻 | Photographer 📷]
+---|---|---
+|Python 🐍 | Javascript *(ES5, jQuery, Node.js)* ☕ | Portraiture 🧔🏻|
+|Pandas 🐼 | MySQL 🗃️ | Animals 🐦🐕🐛🐈|
+|Plotly 📈 | MongoDB 💽 | Landscape 🌄|
+|Jupyter Notebooks 📓 | HTML 🌐 | Macro 🔍|
+|Anaconda 🐉 | CSS *(Vanilla, Bootstrap 👢)* |
