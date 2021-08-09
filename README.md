@@ -1,5 +1,8 @@
-# CapraRoyale
+- Data Analyst 📊
+  - Python 🐍, Pandas 🐼, Plotly 📈, Jupyter Notebooks 📓, Anaconda 🐉
 
-## Using GitHub pages to host a simple blog to centralize all content related with my web handle: *CapraRoyale*
+- Full-Stack Web Developer 🧑🏻‍💻
+  - Javascript (jQuery, Node.js) ☕, MySQL 🗃️, MongoDB 💽, HTML 🌐, CSS (Bootstrap) 👢
 
-### Created using [Hugo](https://gohugo.io/)
+- Photographer 📷
+  - Portraiture 🧔🏻, Animals 🐦🐕🐛🐈, Landscape 🌄, Macro 🔍
