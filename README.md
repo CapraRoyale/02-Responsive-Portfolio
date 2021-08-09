@@ -1,4 +1,4 @@
-# CapraRoyale is Siege Lehman
+# CapraRoyale 🐐👑 is Siege Lehman
 
 ## Polymath, problem solver, informal logician, humanist, & nerd
 
