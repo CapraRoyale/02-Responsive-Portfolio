@@ -1,3 +1,7 @@
+# CapraRoyale is Siege Lehman
+
+*Polymath, problem solver, informal logician, humanist, nerd*
+
 ## Data Analyst 📊
 * Python 🐍
 * Pandas 🐼
