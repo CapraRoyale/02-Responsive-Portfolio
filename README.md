@@ -1,8 +1,19 @@
-- Data Analyst 📊
-  - Python 🐍, Pandas 🐼, Plotly 📈, Jupyter Notebooks 📓, Anaconda 🐉
+# Data Analyst 📊
+* Python 🐍
+* Pandas 🐼
+* Plotly 📈
+* Jupyter Notebooks 📓
+* Anaconda 🐉
 
-- Full-Stack Web Developer 🧑🏻‍💻
-  - Javascript (jQuery, Node.js) ☕, MySQL 🗃️, MongoDB 💽, HTML 🌐, CSS (Bootstrap) 👢
+# Full-Stack Web Developer 🧑🏻‍💻
+* Javascript *(ES5, jQuery, Node.js)* ☕
+* MySQL 🗃️
+* MongoDB 💽
+* HTML 🌐
+* CSS *(Vanilla, Bootstrap)* 👢
 
-- Photographer 📷
-  - Portraiture 🧔🏻, Animals 🐦🐕🐛🐈, Landscape 🌄, Macro 🔍
+# Photographer 📷
+* Portraiture 🧔🏻
+* Animals 🐦🐕🐛🐈
+* Landscape 🌄
+* Macro 🔍
