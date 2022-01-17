@@ -2,7 +2,7 @@
 
 ## Polymath, problem solver, informal logician, humanist, & nerd
 
-[Data Analyst 📊 | Full-Stack Web Developer 🧑🏻‍💻 | Photographer 📷]
+Data Analyst 📊 | Full-Stack Web Developer 🧑🏻‍💻 | Photographer 📷
 ---|---|---
 |Python 🐍 | Javascript *(ES5, jQuery, Node.js)* ☕ | Portraiture 🧔🏻|
 |Pandas 🐼 | MySQL 🗃️ | Animals 🐦🐕🐛🐈|
